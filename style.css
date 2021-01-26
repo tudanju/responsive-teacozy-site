@@ -72,7 +72,9 @@ header {
 }
 
 #header-text h2,
-#header-text h4 {
+#header-text h4,
+#tea-month h2,
+#tea-month h4 {
   padding: 10px;
 }
 
@@ -83,11 +85,6 @@ header {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-}
-
-#tea-month h2,
-#tea-month h4 {
-  padding: 10px;
 }
 
 #tea-month-header {
@@ -153,6 +150,7 @@ header {
 .location-card p {
   padding: 20px 0;
 }
+
 #contact {
   height: 200px;
   font-family: Helvetica, Arial, sans-serif;
